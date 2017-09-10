@@ -21,7 +21,7 @@ _start:
   @  struct in_addr        sin_addr;       /* Internet address             */
   @};
 
-  @sin_addr=192.168.2.106   (INADDR_ANY)
+  @sin_addr=192.168.0.12   (INADDR_ANY)
   @sin_port=4444            (network byte order)
   @sin_family=AF_INET (0x2)
 
